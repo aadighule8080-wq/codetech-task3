@@ -1,4 +1,3 @@
-# codetech-task3
 # Data Science Task 3 Project
 
 ## Project Description
